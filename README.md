@@ -21,4 +21,4 @@ sudo su
 git clone https://github.com/codingjunctioncybersec/CJPhisher.git
 chmod -R 777 CJPhisher
 cd CJPhisher
-bash mip22.sh
+bash CJPhisher.sh
